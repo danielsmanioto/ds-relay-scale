@@ -1,4 +1,4 @@
-# ds-escala-revezamento
+# ds-relay-scale
 App simples para android com objetivo de verificar escala de revesamento colaborador
 
 # Description and rules
